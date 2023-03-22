@@ -15,7 +15,7 @@
                 let gold = Number(parseFloat(prompt('How much gold do you want?')));
                 reactHandler().stateNode.setState({ gold2: gold, gold });
 
-                alert('Gold added!');
+                alert('Gold 99999999999 added!');
             };
 })();
 
